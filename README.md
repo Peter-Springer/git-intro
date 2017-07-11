@@ -1,3 +1,3 @@
 # git-intro
 
-# gschool
+# g-school
